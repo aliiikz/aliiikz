@@ -1,13 +1,13 @@
-### Hi there👋 I'm Ali - aka Doci!
+### Hi there👋 I'm Ali
 
 ## I'm a DevOps engineer
-I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜open source, ☁️Cloud computing, 🚀DevOps, 🆕Innovation and 🤖Automation
+I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜Open Source, ☁️Cloud Computing, 🚀DevOps, 🆕Innovation and 🤖Automation
 - 🔭 I’m currently working on:
 	- [X] Learning Golang
 	- [ ] Leanrning Kubernetes
 	- [X] Leanrning Jenkins
 	- [ ] Learning Terraform
-- 💡 I'm interested in: Big Data, Cloud, Machine Learning and Cognetive Science
+- 💡 I'm interested in: Big Data, Cloud, AI and Cognetive Science
 - 👯 I’m looking to start collaborating with other content creators
 - 🥅 I’m looking to Contribute to Open Source projects
 - 💪 I’m currently developing my skills in DevOps and Programming
