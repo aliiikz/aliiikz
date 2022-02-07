@@ -5,7 +5,7 @@ I like automating things, building pipelines, exploring scalability problems and
 - 🔭 I’m currently working on:
 	- [X] Learning Golang
 	- [X] Leanrning Kubernetes
-	- [X] Leanrning Terraform
+	- [ ] Leanrning Terraform
 	- [ ] Learning Terraform
 - 💡 Infrastructure is life itself...
 - 💪 I’m currently developing my skills in DevOps and Programming
