@@ -4,20 +4,19 @@
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜Open Source, ☁️Cloud Computing, 🚀DevOps, 🆕Innovation and 🤖Automation
 - 🔭 I’m currently working on:
 	- [X] Learning Golang
-	- [ ] Leanrning Kubernetes
-	- [X] Leanrning Jenkins
+	- [X] Leanrning Kubernetes
+	- [X] Leanrning Terraform
 	- [ ] Learning Terraform
-- 💡 I'm interested in: Big Data, Cloud, AI and Cognetive Science
+- 💡 Infrastructure is life itself...
+- 💪 I’m currently developing my skills in DevOps and Programming
 - 👯 I’m looking to start collaborating with other content creators
 - 🥅 I’m looking to Contribute to Open Source projects
-- 💪 I’m currently developing my skills in DevOps and Programming
 
 ### Connect with me:
 
 <br />
 
 [<img align="left" alt="github | LinkedIn" width="120px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />][linkedin]
-[<img align="left" alt="github | Twitter" width="100px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" />][twitter]
 [<img align="left" alt="github | Instagram" width="115px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" />][instagram]
 
 <br />
@@ -58,9 +57,9 @@ I like automating things, building pipelines, exploring scalability problems and
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Install OpsManager on CentOS7 Locally](#)
-- [Continuous Delivery with Docker and Jenkins](#)
+- [Continuous Delivery with Docker and GitlabCI](#)
 - [Concurrency in Golang](#)
-- [Apache Airflow Cluster Installation on CentOS7](#)
+- [Apache Airflow Cluster](#)
 - [Developing DevOps tools with Golang](#)
 
 <!-- BLOG-POST-LIST:END -->
