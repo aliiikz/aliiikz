@@ -1,88 +1,27 @@
-### Hi there👋 I'm Ali
+### Hi there, I'm Ali
 
-## I'm a DevOps engineer
+## DevOps Engineer | Cloud and Automation Enthusiast  
 
-I like automating things, building pipelines, exploring scalability problems, and improving efficiency and performance. I am a strong advocate of 📜Open Source and ☁️Cloud Computing.
+I’m passionate about automating cloud infrastructure, designing scalable network systems, and building reliable, self-healing environments that empower both developers and operations teams.  
+I enjoy architecting end-to-end solutions — from infrastructure as code and container orchestration to monitoring, deployment, and cloud security.
 
-- 💡 Infrastructure is life itself...
-- 💪 I’m currently developing my skills in DevOps and Programming.
-- 👯 I’m looking to start collaborating with other content creators.
-- 🥅 I’m looking to contribute to Open Source projects.
+---
 
-### Connect with me:
+### About Me  
 
-[<img align="left" alt="LinkedIn" width="120px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />][linkedin]
+- *"Automation is not about replacing people — it’s about freeing them to think." - Ali*  
+- Currently developing my skills in DevOps, cloud architecture, and system design.  
+- Always open to collaborating on open-source and DevOps-focused projects.
+
+---
+
+### Connect With Me  
+
+[<img align="left" alt="Ali | LinkedIn" width="120px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />](https://www.linkedin.com/in/aliiikz)
 
 <br clear="left"/>
 
-### Languages and Tools:
+---
 
-<table>
-  <tr>
-    <td><strong>Operating Systems:</strong></td>
-    <td>
-      <img alt="CentOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/centos.svg" />
-      <img alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Orchestration and Automation:</strong></td>
-    <td>
-      <img alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" />
-      <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
-      <img alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>CI/CD Tools:</strong></td>
-    <td>
-      <img alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" />
-      <img alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases:</strong></td>
-    <td>
-      <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
-      <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-      <img alt="Redis" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redis.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Web Servers and Tools:</strong></td>
-    <td>
-      <img alt="Nginx" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Programming Languages:</strong></td>
-    <td>
-      <img alt="Golang" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" />
-      <img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure as Code:</strong></td>
-    <td>
-      <img alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />
-    </td>
-  </tr>
-  <tr>
-</table>
-
-## <br clear="left"/>
-
-### 📕 Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Multithreading in Golang](#)
-- [Concurrency in Golang](#)
-- [Developing DevOps tools with Golang](#)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://github.com/aliiikz/blogs)
-
-[github]: https://github.com/aliiikz
-[linkedin]: https://linkedin.com/in/aliiikz
+**Let’s build something together.**  
+If you’re interested in DevOps, cloud infrastructure, or open-source collaboration, feel free to reach out or explore my repositories below.
