@@ -3,9 +3,7 @@
 ### I do DevOps, Kubernetes and networking things
 
 - 🔭 I'm currently working on network isolation in multi-tenant **Kubernetes** clusters
-- 🌱 Learning **AWS**
-- 💬 I like to talk about **K8s**, and **Openstack**
-- ⚡ A great engineer one said: *Servers should heal themselves, so people can rest - Me*
+- ⚡ *"Servers should heal themselves, so people can rest."* ~ Ali
 - 💻 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliiikz)
 
 ```console
@@ -20,11 +18,8 @@ terraform                   0/1     SkillCreating       0
 
 ali@turin:~$ systemctl status interests
 ● interests.service
-     Active: active (running) since 2026
-     Topics: K8s, Linux, AWS, Terraform
-
-ali@turin:~$ ping ali
-PING ali: reply from linkedin.com/in/aliiikz time=0.42 ms
+     Active: active (running)
+     Topics: K8s, Terraform, AWS
 ```
 
 ## 🧰 Tech
