@@ -1,27 +1,32 @@
-### Hi there, I'm Ali
+# 👋 Hey there, I'm Ali
 
-## DevOps Engineer | Cloud and Automation Enthusiast  
+### I do DevOps, Kubernetes and networking things
 
-I’m passionate about automating cloud infrastructure, designing scalable network systems, and building reliable, self-healing environments that empower both developers and operations teams.  
-I enjoy architecting end-to-end solutions — from infrastructure as code and container orchestration to monitoring, deployment, and cloud security.
+- 🔭 I'm currently working on network isolation in multi-tenant **Kubernetes** clusters
+- 🌱 Learning **AWS**
+- 💬 I like to talk about **K8s**, and **Openstack**
+- ⚡ A great engineer one said: *Servers should heal themselves, so people can rest - Me*
+- 💻 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliiikz)
 
----
+```console
+ali@turin:~$ whoami
+DevOps | Cloud engineer
 
-### About Me  
+ali@turin:~$ kubectl get pods -n ali
+NAME                        READY   STATUS              RESTARTS
+k8s-multi-tenant-network    1/1     Running             0
+aws                         0/1     SkillCreating       0
+terraform                   0/1     SkillCreating       0
 
-- *"Automation is not about replacing people — it’s about freeing them to think." - Ali*  
-- Currently developing my skills in DevOps, cloud architecture, and system design.  
-- Always open to collaborating on open-source and DevOps-focused projects.
+ali@turin:~$ systemctl status interests
+● interests.service
+     Active: active (running) since 2026
+     Topics: K8s, Linux, AWS, Terraform
 
----
+ali@turin:~$ ping ali
+PING ali: reply from linkedin.com/in/aliiikz time=0.42 ms
+```
 
-### Connect With Me  
+## 🧰 Tech
 
-[<img align="left" alt="Ali | LinkedIn" width="120px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />](https://www.linkedin.com/in/aliiikz)
-
-<br clear="left"/>
-
----
-
-**Let’s build something together.**  
-If you’re interested in DevOps, cloud infrastructure, or open-source collaboration, feel free to reach out or explore my repositories below.
+[![My tech](https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,go)](https://skillicons.dev)
