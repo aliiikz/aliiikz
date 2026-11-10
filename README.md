@@ -2,7 +2,7 @@
 
 ### I do DevOps, Kubernetes and networking things
 
-- 🔭 I'm currently working on network isolation in multi-tenant **Kubernetes** clusters
+- 🔭 I'm currently working on network isolation in Kubernetes clusters
 - ⚡ *"Servers should heal themselves, so people can rest."* ~ Ali
 - 💻 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliiikz)
 
